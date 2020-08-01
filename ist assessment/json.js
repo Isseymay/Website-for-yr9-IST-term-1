@@ -1,0 +1,80 @@
+products=[
+	{
+		"number":"1",
+		"nam":"Pixel 4",
+		"type":"Phone",
+		"price":"$850",
+		"description":"I'ts a phone *Yay*",
+		"rating":"4",
+		"comments":"It's really expensive but its got a cool ad",
+		"sale":"0",
+		"img":"pixel4",
+		"url":"0gizLT97cKo",
+		"specs":"Size: 5.7 inches Battery: 2800 mAh Memory:6 GB LPDDR4x Storage:64 GB Other: Has motion sense, google assisstant"
+	},
+	{
+		"number":"2",
+		"nam":"Airpods",
+		"type":"Audio",
+		"price":"$250",
+		"description":"Everyone wants them they are a little wireless earbud",
+		"rating":"2",
+		"comments":"They're dumb and you're gaurented to loose at least one",
+		"sale":"1",
+		"img":"airpods",
+		"url":"yyNtm0LZiKc",
+		"specs":"Connection: Bluetooth Measurements: 16.5 by 18.0 by 40.5 mm Charging:AirPods with charging case: more than 24 hours of listening time, up to 18 hours of talk time. AirPods (single charge): up to five hours of listening time, up to three hours of talk time. 15 minutes in the case equals three hours of listening time or up to two hours of talk time5"
+	},
+	{
+		"number":"3",
+		"nam":"Sony Bravia 32 inch Full HD",
+		"type":"TV",
+		"price":"$550",
+		"description":"Honestly who doesnt have/want a tv",
+		"rating":"5",
+		"comments":"its a pretty good tv",
+		"sale":"0",
+		"img":"bravia",
+		"url":"nKL3miL55qk&feature=",
+		"specs":"SKU: KDL32W5500 Display Resolution: 1920 x 1080 Smart TV No USB HDD Recording : No Width : 798.00 Height: 585.00 Depth: 259.00"
+	},
+	{
+		"number":"4",
+		"nam":"Smeg 50's Style Series 2 Slice Toaster",
+		"type":"Toaster",
+		"price":"$190",
+		"description":"Is toaster what more is there to say",
+		"rating":"4",
+		"comments":"soo colorful",
+		"sale":"1",
+		"img":"smeg",
+		"url":"V-turxCNLpQ",
+		"specs":"2 extra wide slots ensure that the 50s Style Toaster by Smeg is capable of toasting even large products like bagels. Get the perfect toast with 6 browning levels and modes for reheating, defrost and bagel/crumpet. Illuminated controls make it an ease to set even in the dim early morning light. The removable stainless steel crumb tray ensures that the Smeg 50s Style Toaster is easy to clean. A classic 50s Style body and design bring a old world class into your kitchen."
+	},
+	{
+		"number":"5",
+		"nam":"Classic Popcorn Maker",
+		"type":"pop corn machine",
+		"price":"$100",
+		"description":"Who doesn't love popcorn?",
+		"rating":"3",
+		"comments":"Popcorn wasn't self sauced",
+		"sale":"1",
+		"img":"popcorn",
+		"url":"",
+		"specs":"Stainless steel kettle with built-in stirring system. Makes up to 4.5 litres of fresh popcorn per batch.Convenient serving tray.Warming light.Fun and easy to use for the whole family.Includes measuring cup and spoon"
+	},
+	{
+		"number":"6",
+		"nam":"iphone 10",
+		"type":"phone",
+		"price":"$1,200",
+		"description":"really fancy it even comes in more than one colour",
+		"rating":"4",
+		"comments":"pretty colours and the actual phone is ok",
+		"sale":"0",
+		"img":"iphone",
+		"url":"H4p6njjPV_o",
+		"specs":"Size:6.1 inches Battery: 3110 Storage: 64GB Other: siri, "
+	}
+]

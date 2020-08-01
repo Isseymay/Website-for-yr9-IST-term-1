@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One|Gotu&display=swap');
+
+
+body{
+	font-family: 'Gotu', sans-serif;
+	background-color: #ECE4B7;
+	margin:20px 0px 20px 0px;
+	color:#0F4C5C;
+
+}
+h1{
+	font-family: 'Fredoka One', sans-serif;	
+	font-size: 5.5em;
+	margin:20px;
+	text-align:center;
+	color:#E36414;
+}
+.header {
+	
+	font-family: 'Fredoka One', sans-serif;
+	color:#0F4C5C ;
+	display:inline-block;
+	margin:20px;
+	vertical-align: middle;
+	font-size: 7.5em;
+}
+
+img.header{
+	display:inline-block;
+	width:100px;
+	height:100px;
+}
+
+/* Add a black background color to the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #5F0F40;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #ECE4B7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  width:20%;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #9A031E;
+  color: #ECE4B7;
+}
+
+h2{
+	margin-left:20px;
+}/* Style the "active" element to highlight the current page */
+p{
+	margin-left:20px;
+}
+
+/* Style the search box inside the navigation bar */
+.map{
+	margin-left:20px;
+
+}
+
+
+
+.feed{
+	display:inline-block;
+	margin:20px;
+	width:19%;
+}
+
+.text{
+	display:inline-block;
+	margin:20px;
+	width:75%;
+	vertical-align: top;
+}
+
+.poll{
+	margin-left: auto;
+}
+
+.border{
+	
+	border:#FB8B24 2px solid;
+	border-radius: 25px;
+	text-align: center;
+	margin:10px;
+}
+
+.styling{
+	margin:20px 20%;
+}
+
+.grid-container{
+	text-align: center;s
+	grid-template-columns: auto auto auto;
+}
+.grid-item{
+	display:inline-grid;
+	width:30%;
+	height:250px;
+	margin:20px 20px;
+	border: solid 2px #FB8B24 ;
+}
+
+.img{
+	width:100px;
+	align-self:center;
+
+}
